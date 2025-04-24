@@ -19,3 +19,7 @@ scipy
 setuptools
 uvicorn
 xgboost
+awscli
+dvc
+dvc[s3]
+prometheus_client
