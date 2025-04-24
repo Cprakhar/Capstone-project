@@ -4,6 +4,7 @@
 # external requirements
 boto3
 dagshub
+flask
 fastapi
 ipykernel
 ipywidgets
@@ -19,3 +20,7 @@ scipy
 setuptools
 uvicorn
 xgboost
+awscli
+dvc[s3]
+prometheus_client
+pickle
