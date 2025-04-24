@@ -5,6 +5,9 @@ __pycache__/
 
 temp.txt
 s3_local/
+data/
+logs/
+models/
 
 # C extensions
 *.so
