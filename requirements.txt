@@ -4,6 +4,7 @@
 # external requirements
 boto3
 dagshub
+flask
 fastapi
 ipykernel
 ipywidgets
