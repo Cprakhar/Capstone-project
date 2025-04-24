@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 temp.txt
+s3_local/
 
 # C extensions
 *.so
