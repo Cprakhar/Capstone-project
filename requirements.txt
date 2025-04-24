@@ -22,4 +22,5 @@ xgboost
 awscli
 flask
 prometheus_client
-dvc[s3]
+dvc_s3
+dvc
