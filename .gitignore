@@ -6,7 +6,6 @@ __pycache__/
 temp.txt
 s3_local/
 logs/
-models/
 data/
 
 # C extensions
