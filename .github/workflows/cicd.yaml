@@ -83,7 +83,7 @@ jobs:
       
       - name: Update kubeconfig
         run: |
-          aws eks update-kubeconfig --region ap-south-1 --name capstone-app
+          aws eks update-kubeconfig --region ap-south-1 --name capstone-cluster
 
       - name: Create Kubernetes Secret
         run: |
